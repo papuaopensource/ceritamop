@@ -266,5 +266,119 @@
         "content": "😂😂😂"
       }
     ]
-  }
+  },
+  {
+    "id": "pesan-minuman-di-warung",
+    "title": "Pesan Minuman di Warung",
+    "date": "23 Juli 2026",
+    "content": [
+      {
+        "type": "narration",
+        "content": "Ada empat orang sahabat yang berasal dari Makassar, Manado, Buton, dan Ambon. Suatu hari dong masuk ke satu warung. Tapi ada satu syarat, masing-masing harus pesan minuman yang terkenal dari daerahnya. Akhirnya pace dari Makassar maju duluan."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Pace Makassar",
+        "content": "Mbak... ada Kratingdaeng kah..?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Penjual",
+        "content": "Ada kaka."
+      },
+      {
+        "type": "narration",
+        "content": "Habis itu giliran pace dari Manado."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Pace Manado",
+        "content": "Mbak... ada Extra Joss ka..?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Penjual",
+        "content": "Ada juga kaka."
+      },
+      {
+        "type": "narration",
+        "content": "Selanjutnya pace dari Buton ikut pesan."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Pace Buton",
+        "content": "Mbak... ada La Segar kah..?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Penjual",
+        "content": "Ada kaka."
+      },
+      {
+        "type": "narration",
+        "content": "Tinggal pace dari Ambon saja. De pikir-pikir bah dong semua su pesan minuman yang enak baru sa apa eee...? De pikir-pikir terus de bilang "
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Pace Ambon",
+        "content": "Sudah mbak, sa pesan ini saja sudah.... ada BETA dine kah...?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Penjual",
+        "content": "....?????"
+      },
+      {
+        "type": "narration",
+        "content": "😂😂😂"
+      }
+    ]
+  },
+  {
+    "id": "sombong-deng-alkitab",
+    "title": "Sombong Deng Alkitab",
+    "date": "23 Juli 2026",
+    "content": [
+      {
+        "type": "narration",
+        "content": "Ada satu tete yang malam Minggu mabuk sampai pagi. Karena terlalu capek, de tidur di para-para."
+      },
+      {
+        "type": "narration",
+        "content": "Di waktu yang sama, nenek dengan de pu cucu berangkat pergi ke gereja. Nenek pegang Alkitab besar dari zaman Belanda di tangan kiri, baru tangan kanan gandeng cucu."
+      },
+      {
+        "type": "narration",
+        "content": "Pas dong lewat para-para, cucu lihat ada orang lagi tidur."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Cucu",
+        "content": "Nene, itu tete yang tidur to?"
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Nenek",
+        "content": "Iyo cucu."
+      },
+      {
+        "type": "narration",
+        "content": "Nenek rapat mendekat pelan-pelan ke tete de baru, berteriak ke tete pu telinga."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Nenek",
+        "content": "SLAMAT PAGI IBLIS!"
+      },
+      {
+        "type": "narration",
+        "content": "Tete buka mata sedikit, cuma lihat nenek dari ekor mata saja. Tete belum bangun, baru bilang."
+      },
+      {
+        "type": "dialogue",
+        "speaker": "Tete",
+        "content": "IYO... JALAN... SOMBONG DENGAN ALKITAB BESAR, HABIS TAU BACA JADI..."
+      }
+    ]
+  }  
 ]
